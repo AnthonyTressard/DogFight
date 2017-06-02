@@ -7,7 +7,7 @@ public interface IDogFightModel {
 
 	public void addMobile(IMobile:Mobile);
 
-	public void removeMobile(Mobile:IMobile);
+	public void removeMobile(IMobile:Mobile);
 
 	public ArrayList<IMobile> getMobiles();
 
